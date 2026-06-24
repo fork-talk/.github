@@ -39,7 +39,7 @@
 
 - [BIP-110](https://fork-talk.github.io/faq/forks/bip-110.html) - Temporary data reduction (UASF)
 - [BIP-110 Technical Review](https://fork-talk.github.io/bip110/) - 7 heuristics with code-level analysis
-- [Fork Timeline](https://fork-talk.github.io/faq/timeline.html) - Visual timeline of Aug 2026 fork events
+- [Fork Timeline](https://fork-talk.github.io/timeline/) - Visual timeline of Aug 2026 fork events
 - [BIP-54](https://fork-talk.github.io/faq/forks/bip-54.html) - Great Consensus Cleanup
 - [Common Talking Points](https://fork-talk.github.io/faq/talking-points.html) - data-driven rebuttals
 - [General FAQ](https://fork-talk.github.io/faq/general-faq.html) - governance and terminology
