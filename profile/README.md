@@ -24,6 +24,7 @@
 | Repo | Description |
 |------|-------------|
 | [**faq**](https://github.com/fork-talk/faq) | Bitcoin Forks FAQ - what forks are, how they work, historical and current proposals (BIP-110, BIP-54, eCash), and data-driven responses to common talking points |
+| [**bip110**](https://github.com/fork-talk/bip110) | Deep technical review of BIP-110: how 7 heuristics filter non-financial data, with code-level evidence from the shipped Knots implementation |
 | [**bip110-monitor**](https://github.com/fork-talk/bip110-monitor) | Live adoption dashboard tracking BIP-110 node signaling and miner block signaling across the Bitcoin network |
 | [**fork-talk.github.io**](https://github.com/fork-talk/fork-talk.github.io) | Landing page and org website |
 
@@ -37,6 +38,7 @@
 ### Key topics
 
 - [BIP-110](https://fork-talk.github.io/faq/forks/bip-110.html) - Temporary data reduction (UASF)
+- [BIP-110 Technical Review](https://fork-talk.github.io/bip110/) - 7 heuristics with code-level analysis
 - [BIP-54](https://fork-talk.github.io/faq/forks/bip-54.html) - Great Consensus Cleanup
 - [Common Talking Points](https://fork-talk.github.io/faq/talking-points.html) - data-driven rebuttals
 - [General FAQ](https://fork-talk.github.io/faq/general-faq.html) - governance and terminology
